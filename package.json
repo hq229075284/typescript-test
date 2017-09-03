@@ -1,0 +1,25 @@
+{
+  "name": "typescript-test",
+  "version": "0.0.1",
+  "description": "typescript practice",
+  "main": "index.js",
+  "scripts": {
+    "start":"node script/gotoJS.js",
+    "compile": "tsc",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hq229075284/typescript-test.git"
+  },
+  "author": "HanQ",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/hq229075284/typescript-test/issues"
+  },
+  "homepage": "https://github.com/hq229075284/typescript-test#readme",
+  "devDependencies": {
+    "shelljs": "^0.7.8",
+    "typescript": "^2.5.2"
+  }
+}
